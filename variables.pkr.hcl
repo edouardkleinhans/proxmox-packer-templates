@@ -47,7 +47,7 @@ variable "cpu_cores" {
 variable "memory" {
   description = "The amount of memory to allocate to the VM in Megabytes."
   type        = number
-  default     = 2048
+  default     = 1024
 }
 
 variable "disk_storage_pool" {
