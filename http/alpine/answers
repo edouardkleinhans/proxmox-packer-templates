@@ -1,4 +1,4 @@
-KEYMAPOPTS="us us"
+KEYMAPOPTS="fr fr"
 HOSTNAMEOPTS="-n alpine"
 INTERFACESOPTS="auto lo
 iface lo inet loopback
